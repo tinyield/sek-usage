@@ -1,2 +1,2 @@
 # sek-usage
-Sek usage in Java of Kotlin Seuqnece
+Sek usage in Java of Kotlin Sequence.
